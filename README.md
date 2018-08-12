@@ -37,6 +37,12 @@ Leituras:
 
 ### 20/08: As eleições de 1994 e 1998
 
+Questões: 
+- 
+
+Leituras: 
+
+
 ### 27/08: O fundamento da pesquisa de opinião
 
 ### 10/09: As eleições de 2002 e 2006
