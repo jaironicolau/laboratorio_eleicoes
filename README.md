@@ -37,8 +37,13 @@ Leituras:
 
 ### 20/08: As eleições de 1994 e 1998
 
-Questões: 
-- 
+Questões:
+
+- Quantos candidatos concorreram para presidente em 1994 e 1998? Por que você acaha que o número de concorrentes caiu quando comparado a 1989?
+
+- Existe alguma diferença importante na votação obtida por Fernando Henrique nos estados quando comparamos 1994 e 1998?  (ver: https://jaironicolau.github.io/deb/)
+
+- Existe alguma diferença importante na votação obtida por Lula nos estados quando comparamos 1994 e 1998?
 
 Leituras: 
 
