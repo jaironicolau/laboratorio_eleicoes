@@ -68,7 +68,7 @@ Questões:
 
 Leituras: 
 
-https://www.anpocs.com/index.php/papers-31-encontro/st-7/st24-3/3029-jaironicolau-uma-disputa/file
+- https://www.anpocs.com/index.php/papers-31-encontro/st-7/st24-3/3029-jaironicolau-uma-disputa/file
 
 
 ### 10/09: O fundamento da pesquisa de opinião
