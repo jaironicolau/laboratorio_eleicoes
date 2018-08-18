@@ -53,7 +53,7 @@ Leituras:
 
 - Pesquise no site do Observatório das eleições os textos das eleições de 1994 e 1998 (https://www.observatoriodaseleicoes.org/biblioteca-sobre-eleicoes). O que chamou a sua atenção na pesquisa?
 
-- http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762010000200002
+- http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762010000200002 Veja especialmente os mapas e gráficos do artigo.
 
 
 ### 27/08: As eleições de 2002 e 2006
