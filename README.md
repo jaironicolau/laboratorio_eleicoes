@@ -58,6 +58,19 @@ Leituras:
 
 ### 27/08: As eleições de 2002 e 2006
 
+Questões:
+
+- As eleições de 2002 foram as que tiveram mais candidatos competitivos a Presidência. É possivel dizer que houve um componente estadual no voto para presidente?
+
+- Existe alguma relação entre renda/escolaridade e voto em 2002? Pesquise na internet e veja se consegue algum dado sobre o assunto
+
+- Qual é a principal diferença entre o voto de Lula em 2006 e 2002? Qual é a hipótese para explicá-la?
+
+Leituras: 
+
+https://www.anpocs.com/index.php/papers-31-encontro/st-7/st24-3/3029-jaironicolau-uma-disputa/file
+
+
 ### 10/09: O fundamento da pesquisa de opinião
 
 
