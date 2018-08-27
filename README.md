@@ -60,7 +60,7 @@ Leituras:
 
 Questões:
 
-- As eleições de 2002 foram as que tiveram mais candidatos competitivos a Presidência. É possivel dizer que houve um componente estadual no voto para presidente?
+- As eleições de 2002 foram as que tiveram mais candidatos competitivos à presidência. É possível dizer que houve um componente estadual no voto para presidente?
 
 - Existe alguma relação entre renda/escolaridade e voto em 2002? Pesquise na internet e veja se consegue algum dado sobre o assunto
 
@@ -71,10 +71,21 @@ Leituras:
 - https://www.anpocs.com/index.php/papers-31-encontro/st-7/st24-3/3029-jaironicolau-uma-disputa/file
 
 
-### 10/09: O fundamento da pesquisa de opinião
+### 03/09: As eleições de 2010 e 2014
 
+Questões:
 
-### 17/09: As eleições de 2010 e 2014
+- Os mapas de votação de Dilma nas eleições de 2010 e 2014 são muito diferentes?
+
+- O que sabemos sobre a votação de Marina Silva em 2010 e 2014? ver: https://jaironicolau.github.io/2018-07-12-as-duas-campanhas-de-marina/
+
+Leituras: 
+
+- http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762014000300311
+
+- http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-44782015000400107&lng=pt&nrm=iso
+
+### 10/09: Aula externa
 
 ### 24/09: As eleições para deputado federal 1
 
@@ -84,13 +95,13 @@ Leituras:
 
 ### 15/10: Gastos de campanha e voto
 
-### 22/10: As eleições no Rio de Janeiro: história
+### 22/10: A representação de mulheres, negros e grupos religiosos
 
 ### 29/10: O perfil dos candidatos e dos eleitos
 
 ### 05/11: Análise dos resultados do segundo turno
 
-### 12/11: A representação de mulheres, negros e grupos religiosos
+### 12/11: 
 
 ### 19/11: Avaliação final
 
