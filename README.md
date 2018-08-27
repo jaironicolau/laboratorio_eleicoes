@@ -66,6 +66,8 @@ Questões:
 
 - Qual é a principal diferença entre o voto de Lula em 2006 e 2002? Qual é a hipótese para explicá-la?
 
+- Assista o documemtário sobre as eleições de 2002. Algo hkhe chamou a atenção. Marque o minuto : https://www.youtube.com/watch?v=g2YGl_Q2jv0
+
 Leituras: 
 
 - https://www.anpocs.com/index.php/papers-31-encontro/st-7/st24-3/3029-jaironicolau-uma-disputa/file
