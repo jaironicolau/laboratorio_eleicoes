@@ -89,9 +89,25 @@ Leituras:
 
 ### 10/09: Aula externa
 
-### 24/09: As eleições para deputado federal 1
+### 17/09: Apresentação de trabalhos 
 
-### 01/10: As eleições para deputado federal 2
+### 24/09: As eleições para deputado federal 
+
+Questões: 
+
+- O que é a lista aberta? O que a diferencia da lista fechada?
+
+- Como calcular o quaociente eleitoral? 
+
+- Quais são os efeitos das coligações nas eleições proporcionais?
+
+Leituras:
+
+- Representantes de quem? Jairo Nicolau. Editora Zahar, 2017. 
+
+- http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582006000400002
+
+### 01/10: Pesquisa de opinâo: fundamentos
 
 ### 08/10: Análise dos resultados do primeiro turno (aula especial na FGV)
 
@@ -103,9 +119,9 @@ Leituras:
 
 ### 05/11: Análise dos resultados do segundo turno
 
-### 12/11: 
+### 12/11: Avaliação final
 
-### 19/11: Avaliação final
+
 
 
 
