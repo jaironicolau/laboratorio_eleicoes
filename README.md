@@ -107,11 +107,11 @@ Leituras:
 
 - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582006000400002
 
-### 01/10: Pesquisa de opinâo: fundamentos
+### 01/10: Balanço dos grupos
 
 ### 08/10: Análise dos resultados do primeiro turno (aula especial na FGV)
 
-### 15/10: Gastos de campanha e voto
+### 15/10: avaliação. Apresentação das pesquisas realizadas pelos grupos
 
 ### 22/10: A representação de mulheres, negros e grupos religiosos
 
