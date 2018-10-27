@@ -12,9 +12,9 @@ Os alunos serão distribuídos em seis grupos diferentes, cada um deles respons�
 As perguntas e a bibliografia de cada aula serão apresentadas na semana anterior a cada encontro
 
 ## Avaliação:
-70%: tarefas apresentadas em aula
+50%: tarefas apresentadas em aula
 
-30%: participação
+50%: trabalho final
 
 ## Regras de conduta
 É esperado que os alunos chegem às aulas no horário estabelecido.  É proibido o uso de celular durante as aulas.
@@ -111,15 +111,22 @@ Leituras:
 
 ### 08/10: Análise dos resultados do primeiro turno (aula especial na FGV)
 
-### 15/10: avaliação. Apresentação das pesquisas realizadas pelos grupos
+### 22/10: Apresentação dos grupos 1
 
-### 22/10: A representação de mulheres, negros e grupos religiosos
+### 29/10: Apreesentação dos grupos 2
 
-### 29/10: O perfil dos candidatos e dos eleitos
+Textos para discussão:
 
-### 05/11: Análise dos resultados do segundo turno
+- leiam especialmente esse: https://www.nexojornal.com.br/colunistas/2018/O-que-causou-o-furacão-da-extrema-direita-nas-eleições?utm_source=socialbttns&utm_medium=article_share&utm_campaign=self
 
-### 12/11: Avaliação final
+- https://www1.folha.uol.com.br/poder/2018/10/metade-acredita-em-noticias-compartilhadas-no-whatsapp.shtml
+
+- https://www1.folha.uol.com.br/colunas/marcus-melo/2018/10/falando-a-verdade-sobre-acreditar-em-mentiras.shtml?utm_source=twitter&utm_medium=social&utm_campaign=comptw
+
+
+### 05/11: 
+
+### 12/11: 
 
 
 
